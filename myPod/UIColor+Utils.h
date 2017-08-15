@@ -1,10 +1,4 @@
-//
-//  UIColor+Utils.h
-//  DYZB
-//
-//  Created by 周兵 on 15-3-18.
-//  Copyright (c) 2015年 mydouyu. All rights reserved.
-//
+
 
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
